@@ -12,7 +12,6 @@ URL:		http://search.cpan.org/dist/%{module}/
 Source:		http://search.cpan.org/CPAN/authors/id/G/GO/GOZER/%{module}-%{version}.tar.bz2
 Requires:	perl 
 BuildRequires:	xosd-devel, perl-devel
-BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
 Perl extension to the X On Screen Display library (xosd)
