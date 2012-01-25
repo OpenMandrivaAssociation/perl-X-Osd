@@ -1,6 +1,6 @@
 %define module X-Osd
 %define	version	0.7
-%define release	%mkrel 13
+%define release	%mkrel 14
 
 Summary:  	Perl5 modules for xosd
 Name:		perl-%{module}
