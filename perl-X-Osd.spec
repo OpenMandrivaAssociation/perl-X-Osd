@@ -3,7 +3,7 @@
 Summary:	Perl5 modules for xosd
 Name:		perl-%{module}
 Version:	0.7
-Release:	16
+Release:	17
 License:	GPL
 Group:		Development/Perl
 URL:		http://search.cpan.org/dist/%{module}/
