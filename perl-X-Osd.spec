@@ -6,7 +6,7 @@ Version:	0.7
 Release:	17
 License:	GPL
 Group:		Development/Perl
-URL:		http://search.cpan.org/dist/%{module}/
+URL:		https://search.cpan.org/dist/%{module}/
 Source:		http://search.cpan.org/CPAN/authors/id/G/GO/GOZER/%{module}-%{version}.tar.bz2
 Requires:	perl 
 BuildRequires:	xosd-devel, perl-devel
